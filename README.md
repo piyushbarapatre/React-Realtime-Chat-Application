@@ -3,6 +3,8 @@
 ## Overview
 This React-based real-time chat application allows users to communicate instantly via Firebase. With modern design elements and intuitive features, users can log in, start conversations, share media, and use emojis in chat.
 
+https://github.com/user-attachments/assets/70a6666c-e731-44b9-92c9-87958432af6b
+
 ## Features
 - **Real-time Messaging**: Firebase Firestore provides real-time updates for chat messages.
 - **User Authentication**: Secure authentication using Firebase Authentication (Email/Password).
