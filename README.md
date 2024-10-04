@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Lama Dev Chat App Starter template
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-=======
 # React Real-Time Chat Application
 
 ## Overview
@@ -25,4 +20,3 @@ https://github.com/user-attachments/assets/70a6666c-e731-44b9-92c9-87958432af6b
 1. **Frontend**: React.js, CSS, Zustand, React Emoji Picker
 2. **Backend**: Firebase Firestore (Database), Firebase Authentication
 3. **Real-time Updates**: Firebase for real-time data sync, Socket.io for instant messaging
->>>>>>> d137b2d85b3e1088dd6656b7e103bfc885ed01e3
